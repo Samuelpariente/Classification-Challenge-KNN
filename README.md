@@ -1,13 +1,11 @@
 # Classification-Challenge-KNN
-DIA – Classification Challenge – Compte Rendu 
 
-*Par Pariente Samuel et Ortega Marius 
 
-I-  Introduction 
+## I-  Introduction 
 
-Dans ce projet, notre objectif est d’implémenter un algorithme de Machine Learning KNN en classification pour déterminer les labels du fichier « FinalTest.txt » fourni par M. Rodriguez. 
+Dans ce projet, notre objectif est d’implémenter un algorithme de Machine Learning KNN en classification pour déterminer les labels du fichier « FinalTest.txt » fourni. 
 
-II-  Structuration du projet 
+## II-  Structuration du projet 
 
 Pour ce faire nous avons choisi de structurer notre projet sous forme de deux classes : 
 
@@ -17,12 +15,7 @@ Un individu est composé d’un label et d’une valeur. Dans ce projet les labe
 
 Par ailleurs, dans ce projet la valeur d’un individu est représentée par un vecteur de 9 valeurs, donnant un point dans un espace de dimension 9. On peut donc résumer un individu comme suit : 
 
-1
 
-- { 0
-- {
-
-∈ 9
 
 - **Knn :** 
 
@@ -40,7 +33,7 @@ Permet d’enregistrer les labels trouvés dans un fichier texte selon le format
 
 Dans le cas où l’on possède les labels des individus ayant été traités. Cette fonction évaluera l’efficacité du KNN en comparant les labels trouvés aux véritables. Il calculera ainsi la matrice de confusion et le pourcentage d’erreur fait par le programme. 
 
-III-  Tutorial - Lancer notre programme sur votre poste 
+## III-  Tutorial - Lancer notre programme sur votre poste 
 
 - Ouvrir le fichier « KNN.py » : 
 - Se rendre dans le main se situant en bas de page. 
