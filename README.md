@@ -15,7 +15,7 @@ Un individu est composé d’un label et d’une valeur. Dans ce projet les labe
 
 Par ailleurs, dans ce projet la valeur d’un individu est représentée par un vecteur de 9 valeurs, donnant un point dans un espace de dimension 9. On peut donc résumer un individu comme suit : 
 
-
+![](ressources/Capture.PNG)
 
 - **Knn :** 
 
